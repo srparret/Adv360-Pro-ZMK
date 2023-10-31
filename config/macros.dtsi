@@ -8,7 +8,7 @@ macro_computer_2: macro_computer_2{
 compatible = "zmk,behavior-macro";
 label = "macro_computer_2";
 #binding-cells = <0>;
-bindings = <&kp LEFT_CONTROL>, <&kp LEFT_ALT>, <&kp NUMBER_2>;
+bindings = <&kp LEFT_CONTROL>, <&kp LEFT_ALT>, <&kp N2>;
 };
 macro_computer_1: macro_computer_1{
 compatible = "zmk,behavior-macro";
