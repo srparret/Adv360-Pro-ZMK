@@ -15,5 +15,22 @@
 		},
 		"footnotes": {},
 		"type": "UD"
+	},
+	{
+		"names": [
+			"LEFT_CONTROL(LEFT_ALT(N1))"
+		],
+		"description": "LEFT_CONTROL(LEFT_ALT(N1))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
 	}
 ]
