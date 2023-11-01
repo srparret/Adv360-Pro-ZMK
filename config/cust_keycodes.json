@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LEFT_CONTROL(LEFT_ALT(1))"
+		],
+		"description": "LEFT_CONTROL(LEFT_ALT(1))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
